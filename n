@@ -1,0 +1,8 @@
+age = 14
+audult = 18-age
+old = 100-age
+name= "starkisha"
+
+print("hello my name is" ,name,)
+print("i am" ,age, "years old")
+print("i will be dead or really old" ,old, "years")
